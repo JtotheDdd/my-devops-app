@@ -29,7 +29,7 @@ A simple web application deployed automatically using AWS DevOps tools.
 
 - EC2 instance running Amazon Linux 2023
 - Nginx installed as web server
-  -CodePipeline setup to refer to this repo.
+  - CodePipeline setup to refer to this repo.
 - CodeDeploy agent installed and running
 - IAM roles configured for EC2 and CodeDeploy
 
